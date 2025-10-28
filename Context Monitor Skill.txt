@@ -1,0 +1,6 @@
+Here's what it does:
+Uses simple character-to-token ratio (Ö4) for quick estimation
+Accounts for uploaded files (~1000 tokens each)
+Rounds to nearest 5% for simplicity
+Displays as:Ê[Context: ~XX% remaining]
+
